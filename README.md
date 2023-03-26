@@ -33,6 +33,8 @@ php artisan storage:link
 ```
 php artisan canvas:ui
 ```
+> Visit
+http://127.0.0.1:8000/canvas-ui
 
 ## Install Packages
 ```
